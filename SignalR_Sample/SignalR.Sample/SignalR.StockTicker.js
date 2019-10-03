@@ -1,4 +1,5 @@
-﻿/// <reference path="../Scripts/jquery-1.10.2.js" />
+﻿/// /*<reference path="../Scripts/jquery-1.10.2.js" />*/
+/// <reference path="../Scripts/jquery-1.6.4.js" />
 /// <reference path="../Scripts/jquery.signalR-2.2.2.js" />
 
 /*!
